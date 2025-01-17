@@ -1,0 +1,1 @@
+# arch-sway-smal-setup
